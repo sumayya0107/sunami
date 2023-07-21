@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+body{
+    background: palevioletred;
+    color: wheat;
+    text-align: center;
+}
+h2{
+    font-size: 8vw;
+    padding-top: 100px;
+}
